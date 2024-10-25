@@ -1,0 +1,122 @@
+.text{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:40px ;
+
+}
+.he{
+    height:130px ;
+}
+#cart{
+   
+  position: absolute;
+  top: 4%;
+  left: 90%;
+    color: rgb(241, 240, 240);
+    font-size: 20px;
+}
+.h1{
+    margin: top 2px;
+}
+.b{
+
+    margin-left: auto;
+    margin-right: auto;
+    gap: 5rem;
+
+}
+#logo{
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#text{
+    font-weight: bold;
+    color: black;
+}
+#text:hover{
+color: rgb(109, 106, 106);
+}
+.pointer{
+    position: absolute;
+    margin-top: -18px;
+left: 10px;
+}
+i{
+    margin-left: 10px;
+    color: rgb(34, 33, 33);}
+    i:hover{
+        color: burlywood;
+    }
+#slider{
+    height: 700px;
+}
+/* .card{
+    height: 400px;
+    
+}
+#card{
+    height: 400px;
+} */
+ 
+ .b{
+    border: none;
+ }
+.bt{
+    color: rgb(255, 249, 249);
+    background-color: black;
+}
+.bt:hover{
+    color: black;
+    background-color: transparent;
+}
+UOPRWE
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    margin: 20px 0;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.section {
+    margin: 20px 0;
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+.i{
+    height: 300px;
+    width: 100%;
+}
+#h{
+font-size: 35px;
+
+}
